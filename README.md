@@ -7,7 +7,7 @@ A responsive, dark-themed interactive portfolio showcasing my background in Arti
 I am an AI & Data Science graduate from KL University, Hyderabad, with a specialization in Data Science. My interests include machine learning, deep learning, computer vision, Python development, and data analytics.
 
 - **Education:** B.Tech, Artificial Intelligence & Data Science — KL University, Hyderabad (2021–2025)
-- **CGPA:** 8.07/10
+- **CGPA:** 8.09/10
 - **Location:** Hyderabad, India
 - **GitHub:** [Tarunkumarkarli](https://github.com/Tarunkumarkarli)
 - **LinkedIn:** [K Tarun Kumar](https://www.linkedin.com/in/k-tarun-kumar-6655b7232/)
