@@ -1,4 +1,4 @@
-# Tarun Kumar — AI & Data Science Portfolio
+# K Tarun Kumar — AI & Data Science Portfolio
 
 A responsive, dark-themed interactive portfolio showcasing my background in Artificial Intelligence and Data Science, machine learning projects, technical skills, education, and certifications. Built with plain HTML, CSS, and JavaScript—no npm install or build step required.
 
